@@ -1,0 +1,8 @@
+{
+    "name": "ndmg/ndm_framewordk_php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
